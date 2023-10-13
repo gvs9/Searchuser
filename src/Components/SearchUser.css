@@ -1,0 +1,54 @@
+.user-search-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  
+  .search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+  }
+  
+  
+  .search-button {
+    padding: 10px 20px;
+    background-color: #0074d9; 
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .search-button:hover {
+    background-color: #0056b3; 
+  }
+  
+  
+  .user-list {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .user-list th, .user-list td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  
+  .user-list th {
+    background-color: #f2f2f2;
+  }
+  
+  
+  .error-message {
+    color: #FF0000; 
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
